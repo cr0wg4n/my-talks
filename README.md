@@ -9,4 +9,5 @@ Una frase interesante que ronda por mi mente es "Si no estás contribuyendo, est
 
 - Slides, https://slides.com/cr0wg4n/empaqueta-tus-ideas-con-pypi
 - Demo, https://github.com/cr0wg4n/pypi-package-guide
+- Articulo con más detalle al respecto, https://cr0wg4n.medium.com/tu-primera-lib-de-python-ft-pypi-2f918e62d856
 
