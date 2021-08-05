@@ -12,3 +12,8 @@ Una frase interesante que ronda por mi mente es "Si no estás contribuyendo, est
 - Articulo con más detalle al respecto, https://cr0wg4n.medium.com/tu-primera-lib-de-python-ft-pypi-2f918e62d856
 
 ## Optimiza tu Navegación
+
+Hoy en día estamos más conectados que nunca, la pandemia aceleró bastante el proceso de adopción de varias tecnologías, cada vez es más común buscar algo en la web que en un libro, de hecho un libro es el ultimo recurso al que recurrimos para encontrar algo, pasamos bastante tiempo en el navegador que mínimamente deberíamos dedicarle algunos minutos a comprenderlo mejor; esta breve charla te invita a comprender cuan poderoso es un navegador, como acelerar y mejorar tus búsquedas y resultados, como no caer en estafas y evadir varias de las restricciones  (publicidad, anuncios, pop-ups) que algunas páginas nos imponen.
+
+
+- Slides, https://slides.com/cr0wg4n/optimiza-tu-navegacion
