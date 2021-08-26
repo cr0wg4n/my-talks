@@ -1,6 +1,17 @@
 # My Talks :D
 
+
+
+## Flujo de Trabajo y Herramientas OpenSource para el Prototipado de Proyectos de Electrónica y Robótica, Abril 2019
+###### FLISOL 2019, SCESI UMSS - BOLIVIA
+<p align="center">
+  <img src="https://github.com/cr0wg4n/my-talks/blob/main/covers/flisol_19.jpg" width="350">
+</p>
+
+
+
 ## Python la Navaja Suiza, Septiembre 2020
+###### PYTHON CONFERENCE 2020, PYLADIES BOLIVIA
 <p align="center">
   <img src="https://github.com/cr0wg4n/my-talks/blob/main/covers/python_conf_20.jpg" width="350">
 </p>
@@ -10,13 +21,18 @@ Mucho se habla de Python en distintos contextos (Inteligencia artificial, web, s
 - Publicación, http://pycon.bo/schedule-details/speaker15.html
 - Slides, https://slides.com/cr0wg4n/la-navaja-suizapython
 
+
+
 ## Flujo de Trabajo y Herramientas OpenSource para el Prototipado de Proyectos de Electrónica y Robótica, Marzo 2021
+###### ARDUINO DAY 2020, ARDUINO BOLIVIA
 <p align="center">
   <img src="https://github.com/cr0wg4n/my-talks/blob/main/covers/prototipado_21.jpg" width="350">
 </p>
 
 
+
 ## Empaqueta y Distribuye tus Ideas (PyPI), Julio 2021
+###### SEMANA TECNOLÓGICA 2020, SCESI UMSS - BOLIVIA
 <p align="center">
   <img src="https://github.com/cr0wg4n/my-talks/blob/main/covers/pypi_21.jpg" width="350">
 </p>
@@ -28,7 +44,10 @@ Una frase interesante que ronda por mi mente es "Si no estás contribuyendo, est
 - Demo, https://github.com/cr0wg4n/pypi-package-guide
 - Articulo con más detalle al respecto, https://cr0wg4n.medium.com/tu-primera-lib-de-python-ft-pypi-2f918e62d856
 
+
+
 ## Optimiza tu Navegación, Agosto 2021
+###### OHARA - BOLIVIA
 <p align="center">
   <img src="https://github.com/cr0wg4n/my-talks/blob/main/covers/optimiza_tu_navegacion_21.jpeg" width="350">
 </p>
