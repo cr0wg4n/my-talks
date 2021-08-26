@@ -10,6 +10,11 @@ Mucho se habla de Python en distintos contextos (Inteligencia artificial, web, s
 - Publicación, http://pycon.bo/schedule-details/speaker15.html
 - Slides, https://slides.com/cr0wg4n/la-navaja-suizapython
 
+## Flujo de Herramientas OpenSource para el Prototipado de Proyectos de Electrónica y Robótica, Marzo 2021
+<p align="center">
+  <img src="https://github.com/cr0wg4n/my-talks/blob/main/covers/prototipado_21.jpg" width="350">
+</p>
+
 
 ## Empaqueta y Distribuye tus Ideas (PyPI), Julio 2021
 <p align="center">
