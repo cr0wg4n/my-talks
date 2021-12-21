@@ -56,3 +56,15 @@ Hoy en día estamos más conectados que nunca, la pandemia aceleró bastante el 
 
 
 - Slides, https://slides.com/cr0wg4n/optimiza-tu-navegacion
+
+
+## La Tercera es la Vencida, como llevar a cabo un scraping "exitoso", Noviembre 21
+###### Python, La Paz
+<p align="center">
+  <img src="https://github.com/cr0wg4n/my-talks/blob/main/covers/scraping_21.jpg" width="350">
+</p>
+
+La información esta en todas partes, siempre lo ha estado, pero hoy en día se materializa en algo que podemos ver, entender y almacenar, ingentes cantidades de información circulan por internet día a día, "la información es poder" y como tal siempre hay alguien explotándola no siempre para algo bueno, entendamos por fin como aprovecharla, recolectarla y darle un uso con técnicas de web scraping. 
+
+- Slides, https://slides.com/cr0wg4n/la-tercera-es-la-vencida-como-llevar-a-cabo-un-scraping-exitoso
+
