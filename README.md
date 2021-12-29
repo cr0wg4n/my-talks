@@ -58,8 +58,8 @@ Hoy en día estamos más conectados que nunca, la pandemia aceleró bastante el 
 - Slides, https://slides.com/cr0wg4n/optimiza-tu-navegacion
 
 
-## La Tercera es la Vencida, como llevar a cabo un scraping "exitoso", Noviembre 21
-###### Python, La Paz
+## La Tercera es la Vencida, como llevar a cabo un scraping "exitoso", Noviembre 2021
+###### PYTHON, LA PAZ
 <p align="center">
   <img src="https://github.com/cr0wg4n/my-talks/blob/main/covers/scraping_21.jpg" width="350">
 </p>
