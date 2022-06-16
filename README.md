@@ -68,3 +68,12 @@ La información esta en todas partes, siempre lo ha estado, pero hoy en día se 
 
 - Slides, https://slides.com/cr0wg4n/la-tercera-es-la-vencida-como-llevar-a-cabo-un-scraping-exitoso
 
+
+
+## Taller de LaTeX + VScode para la elaboración del documento de Proyecto de Grado y Tesis, Junio 2022
+###### UMSS
+<p align="center">
+  <img src="https://github.com/cr0wg4n/my-talks/blob/main/covers/taller_latex_22.png" width="350">
+</p>
+
+- Slides, https://slides.com/cr0wg4n/taller-de-latex
