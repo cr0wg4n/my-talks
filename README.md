@@ -87,3 +87,15 @@ La información esta en todas partes, siempre lo ha estado, pero hoy en día se 
 </p>
 
 - Youtube, https://youtu.be/v_eATNywQS8
+
+
+## Gestión inteligente de tu privacidad y datos personales en redes sociales, Septiembre 2022
+###### Fundación Patiño
+<p align="center">
+  <img src="https://github.com/cr0wg4n/my-talks/raw/main/covers/simon_patino_rrss.png" width="350">
+</p>
+
+Taller para adolescentes orientado al manejo de la privacidad en redes sociales.
+
+- Slides, https://slides.com/cr0wg4n/privacidad-y-datos-personales
+
