@@ -99,3 +99,17 @@ Taller para adolescentes orientado al manejo de la privacidad en redes sociales.
 
 - Slides, https://slides.com/cr0wg4n/privacidad-y-datos-personales
 
+
+
+
+## Hardware Programming, por donde empezar para no golpearlo cuando no funcione, Abril 2023
+###### LLajtita FLISoL 2023
+
+<p align="center">
+  <img src="https://github.com/cr0wg4n/my-talks/raw/main/covers/flisol_23.jpg" width="350">
+</p>
+
+El primer instinto al notar que el hardware no funciona es agitarlo o golpearlo en el peor de los casos, en esta charla aprenderemos porque eso no funcionará y que hay detrás del hardware moderno (código) para que suceda toda la magia, a la par de como iniciar en el mundo de la programación de sistemas embebidos.
+
+- Slides, https://slides.com/cr0wg4n/hardware-programming 
+
