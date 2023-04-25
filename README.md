@@ -103,7 +103,7 @@ Taller para adolescentes orientado al manejo de la privacidad en redes sociales.
 
 
 ## Hardware Programming, por donde empezar para no golpearlo cuando no funcione, Abril 2023
-###### LLajtita FLISoL 2023
+###### LLajtita FLISoL 2023, HACKLAB BRICKHEADS y SCESI
 
 <p align="center">
   <img src="https://github.com/cr0wg4n/my-talks/raw/main/covers/flisol_23.jpg" width="350">
