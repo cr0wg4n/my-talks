@@ -1,5 +1,4 @@
-# My Talks :D
-
+# Mis Charlas|Talleres 
 
 
 ## Flujo de Trabajo y Herramientas OpenSource para el Prototipado de Proyectos de Electrónica y Robótica, Abril 2019
@@ -113,3 +112,15 @@ El primer instinto al notar que el hardware no funciona es agitarlo o golpearlo 
 
 - Slides, https://slides.com/cr0wg4n/hardware-programming 
 
+
+## Pythoniza tu vida, Junio 2023
+###### PyDay La Paz 2023, UMSA
+
+<p align="center">
+  <img src="https://github.com/cr0wg4n/my-talks/raw/main/covers/pydayLP_23.jpg" width="350">
+</p>
+
+Sin duda Python es uno de los lenguajes más sencillos de aprender, sus bibliotecas y sintaxis hace que logres cosas increíbles con poco esfuerzo, sin embargo, solo lo usamos para resolver problemas/desarrollar en el trabajo o si estamos en la universidad como otro lenguaje más para aprender desarrollo de software. Y si te digo que puedes automatizar muchas actividades diarias con Python: ¿Le entras al club de la Pythonización?
+
+- Webpage, https://pyday.pylapaz.org/#heading-agenda-1-4
+- Slides, https://slides.com/cr0wg4n/pythoniza-tu-vida (en esta ocasión me puse a dibujar/caricaturizar cada una de las imágenes de la diapositiva)
