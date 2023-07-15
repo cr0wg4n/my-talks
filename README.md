@@ -126,8 +126,8 @@ Sin duda Python es uno de los lenguajes más sencillos de aprender, sus bibliote
 - Slides, https://slides.com/cr0wg4n/pythoniza-tu-vida (en esta ocasión me puse a dibujar/caricaturizar cada una de las imágenes de la diapositiva)
 
 
-## Web Scraping: Con la paciencia hasta el cielo y el scrapeo hasta el suelo
-###### Python Cochabamba 2023, Westeros Café
+## Web Scraping: Con la paciencia hasta el cielo y el scrapeo hasta el suelo, Julio 2023
+###### Python Cochabamba, Westeros Café
 
 <p align="center">
   <img src="https://github.com/cr0wg4n/my-talks/raw/main/covers/scrapeo_hasta_el_suelo_23.jpg" width="350">
