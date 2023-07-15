@@ -134,3 +134,6 @@ Sin duda Python es uno de los lenguajes más sencillos de aprender, sus bibliote
 </p>
 
 Cada segundo una persona promedio genera 1.7 megabytes de información según estudios del 2018, los cuales pasan a formar parte de lo que llamamos la Web, donde tu como yo somos vecinos, esta información no siempre esta protegida y es posible recolectarla para darle distintos usos, en este taller aprenderemos a recolectar la información que generan nuestros amables vecinos en la Web.
+
+- Slides, https://slides.com/cr0wg4n/web-scraping-scrapeo-hasta-el-suelo/
+- Code, https://github.com/cr0wg4n/web-scraping-workshop
