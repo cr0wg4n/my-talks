@@ -124,3 +124,13 @@ Sin duda Python es uno de los lenguajes más sencillos de aprender, sus bibliote
 
 - Webpage, https://pyday.pylapaz.org/#heading-agenda-1-4
 - Slides, https://slides.com/cr0wg4n/pythoniza-tu-vida (en esta ocasión me puse a dibujar/caricaturizar cada una de las imágenes de la diapositiva)
+
+
+## Web Scraping: Con la paciencia hasta el cielo y el scrapeo hasta el suelo
+###### Python Cochabamba 2023, Westeros Café
+
+<p align="center">
+  <img src="https://github.com/cr0wg4n/my-talks/raw/main/covers/scrapeo_hasta_el_suelo_23.jpg" width="350">
+</p>
+
+Cada segundo una persona promedio genera 1.7 megabytes de información según estudios del 2018, los cuales pasan a formar parte de lo que llamamos la Web, donde tu como yo somos vecinos, esta información no siempre esta protegida y es posible recolectarla para darle distintos usos, en este taller aprenderemos a recolectar la información que generan nuestros amables vecinos en la Web.
