@@ -127,7 +127,7 @@ Sin duda Python es uno de los lenguajes más sencillos de aprender, sus bibliote
 
 
 ## Web Scraping: Con la paciencia hasta el cielo y el scrapeo hasta el suelo, Julio 2023
-###### Python Cochabamba, Westeros Café
+###### Westeros Café, Python Cochabamba 
 
 <p align="center">
   <img src="https://github.com/cr0wg4n/my-talks/raw/main/covers/scrapeo_hasta_el_suelo_23.jpg" width="350">
@@ -137,3 +137,16 @@ Cada segundo una persona promedio genera 1.7 megabytes de información según es
 
 - Slides, https://slides.com/cr0wg4n/web-scraping-scrapeo-hasta-el-suelo/
 - Code, https://github.com/cr0wg4n/web-scraping-workshop
+
+
+
+## Herramientas colaborativas: Un paseo por el pasado hasta nuestro contrastante presente, Agosto 2023
+###### Workplace 360, Mujeres TICS 
+
+<p align="center">
+  <img src="https://github.com/cr0wg4n/my-talks/raw/main/covers/charla_muejeres_tics_2023.jpeg" width="350">
+</p>
+
+Quiero contarles una historia. Un paseo por un pasado no tan lejano hasta un contrastante presente. Una historia de contribución, colaboración y conocimiento abierto. Una charla ilustrada (con un personaje especial) que pretende mostrar un gigantesco brinco de productividad y colaboración en la construcción de la historia del ser humano. 
+
+- Slides, https://slides.com/cr0wg4n/herramientas-colaborativas-ia
