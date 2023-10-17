@@ -80,7 +80,7 @@ La información esta en todas partes, siempre lo ha estado, pero hoy en día se 
 
 
 ## Crea tu propio Paquete Python y súbelo a PyPI, Septiembre 2022
-###### Pyladies El Alto
+###### PYLADIES EL ALTO
 <p align="center">
   <img src="https://github.com/cr0wg4n/my-talks/raw/main/covers/pyladies_elalto_22.jpg" width="300">
 </p>
@@ -89,7 +89,7 @@ La información esta en todas partes, siempre lo ha estado, pero hoy en día se 
 
 
 ## Gestión inteligente de tu privacidad y datos personales en redes sociales, Septiembre 2022
-###### Fundación Patiño
+###### FUNDACIÓN PATIÑO
 <p align="center">
   <img src="https://github.com/cr0wg4n/my-talks/raw/main/covers/simon_patino_rrss.jpg" width="350">
 </p>
@@ -102,7 +102,7 @@ Taller para adolescentes orientado al manejo de la privacidad en redes sociales.
 
 
 ## Hardware Programming, por donde empezar para no golpearlo cuando no funcione, Abril 2023
-###### LLajtita FLISoL 2023, HACKLAB BRICKHEADS y SCESI
+###### LLAJTITA FLISoL 2023, HACKLAB BRICKHEADS y SCESI
 
 <p align="center">
   <img src="https://github.com/cr0wg4n/my-talks/raw/main/covers/flisol_23.jpg" width="350">
@@ -114,7 +114,7 @@ El primer instinto al notar que el hardware no funciona es agitarlo o golpearlo 
 
 
 ## Pythoniza tu vida, Junio 2023
-###### PyDay La Paz 2023, UMSA
+###### PYDAY LA PAZ 2023, UMSA
 
 <p align="center">
   <img src="https://github.com/cr0wg4n/my-talks/raw/main/covers/pydayLP_23.jpg" width="350">
@@ -127,7 +127,7 @@ Sin duda Python es uno de los lenguajes más sencillos de aprender, sus bibliote
 
 
 ## Web Scraping: Con la paciencia hasta el cielo y el scrapeo hasta el suelo, Julio 2023
-###### Westeros Café, Python Cochabamba 
+###### WESTEROS CAFÉ, PYTHON COCHABAMBA 
 
 <p align="center">
   <img src="https://github.com/cr0wg4n/my-talks/raw/main/covers/scrapeo_hasta_el_suelo_23.jpg" width="350">
@@ -141,7 +141,7 @@ Cada segundo una persona promedio genera 1.7 megabytes de información según es
 
 
 ## Herramientas colaborativas: Un paseo por el pasado hasta nuestro contrastante presente, Agosto 2023
-###### Workplace 360, Mujeres TICS 
+###### 360 WORKPLACE, MUJERES TICS 
 
 <p align="center">
   <img src="https://github.com/cr0wg4n/my-talks/raw/main/covers/charla_muejeres_tics_2023.jpeg" width="350">
